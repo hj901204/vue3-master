@@ -9,4 +9,4 @@
 #6.ref和reactive
 
 #安装：npm install
-#运行：npm run dev
+运行：npm run dev
